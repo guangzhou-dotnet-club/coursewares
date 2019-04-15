@@ -1,5 +1,5 @@
 - Visual Studio 2019 新特性介绍 by 林德熙
-> - PDF：[Visua lStudio 2019 和 C# 8.0 by 林德熙.pdf](Visual_Studio_2019_和_CSharp_8.0_by_林德熙.pdf)
+> - PDF：[Visual Studio 2019 和 C# 8.0 by 林德熙.pdf](Visual_Studio_2019_和_CSharp_8.0_by_林德熙.pdf)
 > - Online：https://r302.cc/X4xMXD
 
 - Azure Machine Learning 介绍 by 卢建晖
